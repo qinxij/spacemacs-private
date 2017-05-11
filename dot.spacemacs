@@ -375,3 +375,9 @@ you should place your code here."
     (add-to-list 'web-mode-indentation-params '("lineup-calls" . nil)))
 
   )
+
+;; ==========================================
+;; Following are generate by emacs automatically
+;; Should delete them!
+;; END
+;; ==========================================
